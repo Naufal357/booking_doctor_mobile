@@ -62,7 +62,7 @@ class BookPlace extends StatelessWidget {
                     ),
                   ),
                 ),
-                //create input name
+                //create input nama
                 Padding(
                   padding: const EdgeInsets.all(16.0),
                   child: Container(
@@ -77,7 +77,7 @@ class BookPlace extends StatelessWidget {
                       child: TextField(        
                         decoration: InputDecoration(
                           border: InputBorder.none,
-                          hintText: "Name",
+                          hintText: "Nama",
                           hintStyle: TextStyle(
                             color: Colors.grey,
                           ),
@@ -103,7 +103,7 @@ class BookPlace extends StatelessWidget {
                         decoration: InputDecoration(
                           suffixIcon: Icon(Icons.date_range),
                           border: InputBorder.none,
-                          hintText: "Date",
+                          hintText: "Tanggal",
                           hintStyle: TextStyle(
                             color: Colors.grey,
                           ),
@@ -132,7 +132,7 @@ class BookPlace extends StatelessWidget {
                         decoration: const InputDecoration(
                           suffixIcon: Icon(Icons.attach_money),
                           border: InputBorder.none,
-                          hintText: "Cost",
+                          hintText: "Biaya",
                           hintStyle: TextStyle(
                             color: Colors.grey,
                           ),
