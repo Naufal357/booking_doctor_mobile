@@ -1,3 +1,4 @@
+import 'package:booking_doctor_mobile/Views/auth/sign_up_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:booking_doctor_mobile/controllers/auth_controllers.dart';
 import 'package:get/get.dart';
@@ -54,7 +55,7 @@ class LoginScreen extends StatelessWidget {
                 Text('Dont have any account?'),
                 TextButton(
                   onPressed: () {
-                    Get.to(LoginScreen());
+                    Get.to(SignUpScreen());
                   },
                   child: Text('Sign Up'),
                 ),

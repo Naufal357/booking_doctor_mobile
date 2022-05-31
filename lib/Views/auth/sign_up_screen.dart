@@ -27,7 +27,7 @@ class SignUpScreen extends StatelessWidget {
             ),
             // let's make text form field after we will convert into a component
             ReusableTextField(
-              labelText: 'Phone/Email',
+              labelText: 'Email',
               controller: authController.emailController,
             ),
             SizedBox(
