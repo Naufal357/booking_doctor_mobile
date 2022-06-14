@@ -7,8 +7,8 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'package:get/get.dart';
 import 'package:paginate_firestore/paginate_firestore.dart';
-import 'package:pesandokter/app/data/models/category_model.dart';
-import 'package:pesandokter/app/data/models/doctor_model.dart';
+import 'package:booking_doctor_mobile/app/data/models/category_model.dart';
+import 'package:booking_doctor_mobile/app/data/models/doctor_model.dart';
 
 import '../controllers/admin_doctor_controller.dart';
 

@@ -7,10 +7,10 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:pesandokter/app/data/models/category_dropdown.dart';
-import 'package:pesandokter/app/data/models/category_model.dart';
-import 'package:pesandokter/app/data/models/doctor_model.dart';
-import 'package:pesandokter/app/utils/snackbar.dart';
+import 'package:booking_doctor_mobile/app/data/models/category_dropdown.dart';
+import 'package:booking_doctor_mobile/app/data/models/category_model.dart';
+import 'package:booking_doctor_mobile/app/data/models/doctor_model.dart';
+import 'package:booking_doctor_mobile/app/utils/snackbar.dart';
 import 'package:uuid/uuid.dart';
 
 class AdminDoctorAddController extends GetxController {

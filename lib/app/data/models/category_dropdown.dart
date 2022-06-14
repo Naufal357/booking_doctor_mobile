@@ -1,4 +1,4 @@
-import 'package:pesandokter/app/data/models/category_model.dart';
+import 'package:booking_doctor_mobile/app/data/models/category_model.dart';
 
 class CategoryDropdown {
   CategoryModel? category;
