@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "739439465191",
+    "project_id": "pesandokter-3c319",
+    "storage_bucket": "pesandokter-3c319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739439465191:android:1e28505e93e5ca0ef44842",
+        "android_client_info": {
+          "package_name": "com.pesandokter.pesandokter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739439465191-gn55q7dlsgo0sd9kge6koclkpaduduok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF_zLlDgUDAWSfQNk5GdVdS5OUoQfYzws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739439465191-gn55q7dlsgo0sd9kge6koclkpaduduok.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739439465191-0l31m5j6doba00dspqr27s2irt2sjp14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pesandokter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
