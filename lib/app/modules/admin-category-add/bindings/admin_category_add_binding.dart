@@ -7,6 +7,7 @@ class AdminCategoryAddBinding extends Bindings {
   void dependencies() {
     Get.lazyPut<AdminCategoryAddController>(
       () => AdminCategoryAddController(),
+      
     );
   }
 }
